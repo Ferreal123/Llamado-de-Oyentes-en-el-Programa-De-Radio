@@ -9,3 +9,4 @@ Guardar en un archivo de Datos  los  datos de los  oyentes que nos soliciten  te
 Para el campo de Localidad,  Deberiamos traer una lista de localidades  desde un archivo de datos, DE QUE NO SE ENCUENTRE LA LOCALIDAD  SE PODRA AGREGAR.  
 Para el campo de Red Social  tendre en el sistema las redes sociales que manejamos  y elegiremos entre ellas.
 Como funcionalidad extra deberia saber las  cantidad de veces que se comunico cada usuario.
+
